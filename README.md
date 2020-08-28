@@ -1,4 +1,4 @@
-### Hi there 👋
+### [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmsmn1729%2FAlgorithm&count_bg=%2306A1F1&title_bg=%23555555&icon=iconify.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **msmn1729/msmn1729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
