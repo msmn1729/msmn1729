@@ -6,6 +6,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msmn1729&hide=jupyter%20notebook&layout=compact)
   
-![msmn1729's github stats](https://github-readme-stats.vercel.app/api?username=msmn1729&show_icons=true&theme=gruvbox)
+![msmn1729's github stats](https://github-readme-stats.vercel.app/api?username=msmn1729&show_icons=true)
 
 </div>
