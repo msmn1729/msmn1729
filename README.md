@@ -4,9 +4,11 @@
   
 ### 🌱 I’m currently learning  
   
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=msmn1729)](https://solved.ac/profile/msmn1729)
-  
+![55](https://user-images.githubusercontent.com/59201008/126817511-0544ee14-e214-4f45-960f-f656247e313e.jpg)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msmn1729&hide=jupyter%20notebook&layout=compact)
+  
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=msmn1729)](https://solved.ac/profile/msmn1729)
   
 ![msmn1729's github stats](https://github-readme-stats.vercel.app/api?username=msmn1729&show_icons=true&theme=gruvbox)
 
