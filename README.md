@@ -4,7 +4,8 @@
   
 ### 🌱 I’m currently learning  
   
-![55](https://user-images.githubusercontent.com/59201008/126817511-0544ee14-e214-4f45-960f-f656247e313e.jpg)
+ ![giphy](https://user-images.githubusercontent.com/59201008/126818876-523d9a09-cf87-461c-9103-02cdd59fd93a.gif)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msmn1729&hide=jupyter%20notebook&layout=compact)
   
