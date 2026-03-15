@@ -1,7 +1,5 @@
 <div align=center>
   
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmsmn1729%2Fmsmn1729&count_bg=%2306A1F1&title_bg=%23555555&icon=iconify.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)
-  
 ### 🌱 I’m currently learning  
   
 ![giphy](https://user-images.githubusercontent.com/59201008/126818876-523d9a09-cf87-461c-9103-02cdd59fd93a.gif)
