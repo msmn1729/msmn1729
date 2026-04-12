@@ -24,7 +24,7 @@ Geonyeol Park | 서울 대학생 개발자
 
 <div align="center">
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=msmn1729)](https://solved.ac/msmn1729)
+[![Solved.ac Profile](https://img.shields.io/badge/Solved.ac-msmn1729-blue?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+PGNpcmNsZSBjeD0iMTYiIGN5PSIxNiIgcj0iMTYiIGZpbGw9IiMwOTkiLz48dGV4dCB4PSI1MCUiIHk9IjUwJSIgZm9udC13ZWlnaHQ9ImJvbGQiIGZvbnQtc2l6ZT0iMjAiIGZpbGw9IiNmZmYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGR5PSIuM2VtIj5TPC90ZXh0Pjwvc3ZnPg==)](https://solved.ac/msmn1729)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=msmn1729&theme=dark)
 
